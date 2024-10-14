@@ -17,7 +17,7 @@
       },
     }
   );
-    
+
   export let variant: "default" | "outline" = "default";
   export let className: string | undefined = "";
 </script>

@@ -1,10 +1,15 @@
 <script lang="ts">
+  import Separator from "./lib/components/Separator.svelte";
   import Navbar from "./lib/components/navbar/Navbar.svelte";
-  import ProfileCard from "./lib/components/profilecard/ProfileCard.svelte";
+  import Introduction from "./lib/components/Introduction.svelte";
+  import AboutMe from "./lib/components/AboutMe.svelte";
 </script>
 
 <main>
   <Navbar />
-  <ProfileCard />
-  <ProfileCard />
+  <Introduction />
+  <Separator id="aboutme" />
+  <AboutMe />
+  <Separator />
+  <AboutMe />
 </main>

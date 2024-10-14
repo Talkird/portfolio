@@ -45,7 +45,7 @@
 
 <nav
   class={classNames(
-    "flex items-center p-4 justify-between bg-neutral",
+    "fixed top-0 left-0 right-0 flex items-center justify-between bg-neutral",
     className
   )}
 >
