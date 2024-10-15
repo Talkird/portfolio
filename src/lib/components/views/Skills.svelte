@@ -11,7 +11,7 @@
   >
     <img
       alt="skills"
-      src="https://skillicons.dev/icons?i=git,github,bash,vscode,html,css,sass,tailwind,js,ts,react,svelte,vite,spring,postgres,mongodb,electron,java,py,linux"
+      src="https://skillicons.dev/icons?i=git,github,bash,html,css,sass,tailwind,js,ts,react,redux,svelte,vite,spring,postgres,mongodb,redis,electron,java,py,linux"
     />
   </div>
 </div>
