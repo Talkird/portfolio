@@ -7,11 +7,16 @@
 >
   <h1 class="text-8xl text-neutral font-bold mb-12">Skills</h1>
   <div
-    class="w-full max-w-6xl flex gap-8 justify-center items-center bg-neutral text-light p-6 rounded-lg shadow-lg shadow-neutral"
+    class="w-full max-w-6xl flex flex-col gap-3 justify-center items-center bg-neutral text-light p-6 rounded-lg shadow-lg shadow-neutral"
   >
     <img
       alt="skills"
-      src="https://skillicons.dev/icons?i=git,github,bash,html,css,sass,tailwind,js,ts,react,redux,svelte,vite,spring,postgres,mongodb,redis,electron,java,py,linux"
+      src="https://skillicons.dev/icons?i=git,github,bash,html,css,sass,tailwind,js,ts,react,redux,svelte,vite,spring"
+    />
+    <img
+      src="
+    https://skillicons.dev/icons?i=postgres,mongodb,redis,electron,java,py,linux"
+      alt=""
     />
   </div>
 </div>
