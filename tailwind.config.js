@@ -5,7 +5,8 @@ export default {
     extend: {
       colors: {
         neutral: '#2b3440',
-        light: '#d7dde4'
+        light: '#d7dde4',
+        accent: '#93c5fd'
       }
     }
   },

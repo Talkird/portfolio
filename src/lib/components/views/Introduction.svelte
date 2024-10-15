@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Button from "./ui/Button.svelte";
+  import Button from "../ui/Button.svelte";
   import { BookText } from "lucide-svelte";
 </script>
 
@@ -11,6 +11,6 @@
     Information Technology Analyst
   </h2>
   <Button className="mt-24 px-8 py-4 text-3xl hover:scale-105 duration-300"
-    ><BookText /> Download CV</Button
+    ><BookText />Download CV</Button
   >
 </div>

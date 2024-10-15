@@ -9,7 +9,7 @@
 <a
   {target}
   class={classNames(
-    "flex items-center select-none justify-center gap-3 p-4 rounded-md hover:bg-light/10 hover:opacity-90 hover:text-blue-300 text-light font-medium text-xl transition",
+    "flex items-center select-none justify-center gap-3 p-4 rounded-md hover:bg-light/10 hover:opacity-90 hover:text-accent text-light font-medium text-xl transition",
     className
   )}
   {href}

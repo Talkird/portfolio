@@ -3,16 +3,19 @@
 
 <div
   class="flex flex-col min-h-screen justify-center items-center bg-gradient-to-r from-blue-300 to-violet-300 p-12"
+  id="aboutme"
 >
   <h1 class="text-8xl text-neutral font-bold mb-12">About me</h1>
   <div
     class="w-full max-w-6xl flex gap-8 justify-center items-center bg-neutral text-light p-6 rounded-lg shadow-lg shadow-neutral"
   >
-    <img
-      src="https://via.placeholder.com/300"
-      alt="Placeholder Image"
-      class="object-cover shadow-md"
-    />
+    <div class="bg-neutral items-center justify-center">
+      <h1
+        class="font-extrabold text-neutral text-4xl rounded-full bg-gradient-to-r from-blue-300 to-violet-300 p-12"
+      >
+        JL
+      </h1>
+    </div>
 
     <p class="text-lg">
       I am Juan Andrés Losauro, a 21-year-old student pursuing a Bachelor's

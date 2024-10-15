@@ -16,10 +16,6 @@
       href: "#skills",
       text: "Skills",
     },
-    {
-      href: "#contact",
-      text: "Contact",
-    },
   ];
 
   const contactLinks: { href: string; icon: any; text: string }[] = [
